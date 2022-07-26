@@ -45,3 +45,31 @@ Vetores / Arrays []
 
 A estrutura de repetição until  ...
 executa determinado bloco de código enquanto o teste da expressão for falso
+
+Conceitos da OO:
+
+    .Classes
+    .Objetos
+    .Encapsulamento
+    .Herança
+
+Fundamentos:
+    
+    .Qualquer coisa é um objeto
+    .Objetos realizam tarefas através da requisição de serviços a outros objetos
+    .Cada objeto pertence a uma determinada classe. Uma classe agrupa objetos similares
+    .A classe é um repositório para comportamento associado ao objeto.
+    .Classes são organizadas em hierarquias
+
+Pilares:
+    
+    .Abstração - identidade única, atributos, métodos
+    .Encapsulamento - esconder as propriedades para obter segurança
+    .Herança - permitir reúso de código
+    .Polimorfismo - referencias um objeto de várias formas diferentes
+
+Classes: 
+    .Gabarito para a definição de objetos, uma forma(receita), a base
+    .Definindo uma classe descreve-se as propriedades/atributos e métodos/ações
+    .Uma classe define o comportamento dos objetos através de seus métodos e quais estados
+    ele é capaz de manter através de seus atributos
