@@ -34,3 +34,10 @@ não é a melhor forma, a melhor forma é a interpolação
  .to_i to integer
  .to_f to float
  .to_s to string
+
+ Operador Spaceship <=>
+
+ 1 <=> 3 # retorna -1
+ 1 <=> 1 # retorna 0
+ 1 <=> 0 # retorna 1
+   
