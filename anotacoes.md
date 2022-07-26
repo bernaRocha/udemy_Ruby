@@ -40,4 +40,8 @@ não é a melhor forma, a melhor forma é a interpolação
  1 <=> 3 # retorna -1
  1 <=> 1 # retorna 0
  1 <=> 0 # retorna 1
-   
+
+Vetores / Arrays []
+
+A estrutura de repetição until  ...
+executa determinado bloco de código enquanto o teste da expressão for falso
