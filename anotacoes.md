@@ -72,4 +72,10 @@ Classes:
     .Gabarito para a definição de objetos, uma forma(receita), a base
     .Definindo uma classe descreve-se as propriedades/atributos e métodos/ações
     .Uma classe define o comportamento dos objetos através de seus métodos e quais estados
-    ele é capaz de manter através de seus atributos
+    ele é capaz de manter através de seus atributos        = vídeo 27
+    . Classes são fábricas de objetos
+
+Objtos: 
+    
+    . A criação de um objeto consiste em sua instanciação,
+    então o objeto é uma instância de uma classe.
