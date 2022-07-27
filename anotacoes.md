@@ -79,3 +79,7 @@ Objtos:
     
     . A criação de um objeto consiste em sua instanciação,
     então o objeto é uma instância de uma classe.
+
+attr_accessor combina o reader e o writer, é getter e setter 
+attr_writer, apenas writer/ setter
+attr_reader, apenas getter
