@@ -12,17 +12,9 @@ class AdivinharNumero
             @venceu = true
             return "Você VENCEU"
         elsif numero > @numero
-            return "Número nuito alto..."
+            return "Número uito alto..."
         else
             return "Número muito baixo..."
         end
     end
-end
-
-jogo = AdivinharNumero.new
-
-until jogo.venceu do
-    p "Digite um número: "
-    numero = gets.to_i
-    p jogo.tentar_adivinhar(numero)
 end
