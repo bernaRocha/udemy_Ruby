@@ -1,0 +1,1 @@
+#File.open('teste.txt', 'w') abre no modo escrita, caso não exista é criado
