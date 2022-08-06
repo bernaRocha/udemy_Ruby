@@ -1,9 +1,13 @@
+require_relative '01_comecando'
+require_relative '02_sorteando_numero'
+
 class AdivinharNumero
     attr_reader :numero
     attr_reader :venceu
     
-    def initialize
-        @numero = Random.rand(1..100)
+    def initialize       
+        Comecando.comecando # Chama a animação do começo do jogo
+        @numero = SorteandoNumero.sortear
         @venceu = false
     end
 
